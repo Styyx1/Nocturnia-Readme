@@ -61,6 +61,8 @@ Nocturnia is a light weight requiem lists meant to get you into requiem. It feat
 
 There's a few new enemies and there's also some increased enemy density, so be on your toes. 
 
+full modlist can be viewed [here](https://loadorderlibrary.com/lists/nocturnia)
+
 ## Mods to get familiar with:
 Requiem obviously, Noxcrab Tweaks, Minor Arcana, Extended Grimoire
 
