@@ -57,14 +57,14 @@ Wabbajack Modlist Installer for Skyrim Special Edition by Styyx
   
 ## Preamble
 
-Nocturnia is a light weight requiem lists meant to get you into requiem. It features some Quest additions like Vigilant, Clockwork and Extended Cut Saint and Seducers, but it's mostly meant to overhaul the base game instead of being content heavy. 
+Nocturnia is a light weight requiem lists meant to get you into requiem. It features some Quest additions like Vigilant, Clockwork and Extended Cut Saint and Seducers, but it's mostly meant to overhaul the base game instead of being content heavy. There are also some Requiem Addons, more on that below.
 
 There's a few new enemies and there's also some increased enemy density, so be on your toes. 
 
 full modlist can be viewed [here](https://loadorderlibrary.com/lists/nocturnia)
 
 ## Mods to get familiar with:
-Requiem obviously, Noxcrab Tweaks, Minor Arcana, Extended Grimoire
+[Requiem obviously](https://www.nexusmods.com/skyrimspecialedition/mods/60888), [Noxcrab Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42591), [Minor Arcana](https://www.nexusmods.com/skyrimspecialedition/mods/61342), [Extended Grimoire](https://www.nexusmods.com/skyrimspecialedition/mods/39214) and [Small Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
 
 Extended Grimoire disables the free spells you learn upon taking a perk. I have reverted that change but please tick the checkbox in its MCM to disable the spells again if you wish to do so. 
 
@@ -86,10 +86,10 @@ It should run good on lower specs as well but I recommend at least 6GB VRAM (GPU
 **I can only answer performance questions about my specs as I don't have different systems flying around to check!**
 
 Space required: 
-- Approx 70GB (Downloads included) + 20-30GB space for temp files.
+- Approx 75GB (Downloads included) + 20-30GB space for temp files.
  
 Size without downloads and space for temp files: 
-- Approx 50GB
+- Approx 51GB
 
 ## Installation
 
@@ -179,7 +179,9 @@ You can tweak the MCMs to your liking, but here's my recommendations:
 ***
 
 ### Starting the Game
-
+After Starting the game, you'll be in front of a door with no way to move or anything. Open the Skyrim Unbound MCM and change your start options.
+When you're done customising it, click ``Start Game`` which takes you to the Race Menu to customise your character. Either select ``Continue`` to start right away or ``Stay Here`` to look around the starting area. When you're done looking through the area, press the start game hotkey to get the same options again. 
+The ``Special`` page shows the hotkey, by default it's ``NumPad +``.
 
 ## Updating the modlist
 
@@ -190,11 +192,12 @@ Updating is like installing the list. Simply make sure your paths are the same a
 ## FAQ
 
 ### Controller Setup
-
+By default Nocturnia uses [this controller setup](https://www.nexusmods.com/skyrimspecialedition/mods/89649) but you can safely disable the mod in MO2 if you prefer the vanilla layout, we're not really using the keys it frees for anything, I just got used to the controls.
 
 ### Ultrawide Options
 
 I personally do not own an Ultrawide, so I cannot offer support. If you can set it up with the mods present in the list, please tell me how or make a pull request for this part of the readme and write it in here.
+There are a few optional Widescreen mods in MO2, but I can not test anything as I don't have a monitor supporting widescreen.
 
 #### Althro's recommendations
 
@@ -202,7 +205,7 @@ Download [Dear Diary dark mode](https://www.nexusmods.com/skyrimspecialedition/m
 
 ### Failed to create download folder
 
-Upon opening MO2 you may get a error warning like this: ``“failed to create E:/ Nocturnia Downloads / downloads your user account probably lacks permission”``. This is due to Wabbajack not changing the ini file of MO2. To fix this find the file ``ModOrganizer.ini`` inside the same folder as the MO2 exe is and change the line:``download_directory=E:/Nocturnia Downloads/downloads`` to ``download_directory=Your Prefered Download Folder``. It's best to find the line inside the ini by using ``crtl + f``.
+Upon opening MO2 you may get a error warning like this: ``“failed to create G:/Modlist Downloads/Traveler your user account probably lacks permission”``. This is due to Wabbajack not changing the ini file of MO2. To fix this find the file ``ModOrganizer.ini`` inside the same folder as the MO2 exe is and change the line:``download_directory=G:/Modlist Downloads/Traveler`` to ``download_directory=Your Prefered Download Folder``. It's best to find the line inside the ini by using ``crtl + f``.
 
 ***
 
@@ -260,11 +263,11 @@ For see what changes happened in each version please refer to the [Changelog](ht
 ## Credits and Thanks
 
 - _YOU_ for reading this.
-- Althro for assisting with so many things. And allowing me to fork the readme. You’re awesome.
-- Chef for the help with the armors and theory crafting random time sinks.
+- Althro for assisting with so many things. You’re awesome.
 - Spaniard for being an invaluable source of knowledge and helping me a lot with the mod choices.
 - Destiny for proofreading the readme and pointing out many errors. Also for testing the list and giving helpful suggestion to improve it.
 - Abandoned by Arkay for helping me with Requiem and the addon choices
 - The Animonculory Dev Team.
+- Phoenix for ``Skyrim Modding Essentials`` which this list used as a base 
 - Noggog for Mutagen.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.
