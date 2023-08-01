@@ -66,6 +66,8 @@ full modlist can be viewed [here](https://loadorderlibrary.com/lists/nocturnia)
 ## Mods to get familiar with:
 Requiem obviously, Noxcrab Tweaks, Minor Arcana, Extended Grimoire
 
+Extended Grimoire disables the free spells you learn upon taking a perk. I have reverted that change but please tick the checkbox in its MCM to disable the spells again if you wish to do so. 
+
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
@@ -96,15 +98,18 @@ Installing Nocturnia is relatively easy and, if you have Nexus Premium, will be 
 ### Pre-Installation
 
 Prior to installing Nocturnia, please complete the following steps.
+>**If you already installed ANY Skyrim Special Edition modlist with Wabbajack before, none of the Pre-Installation steps are needed anymore**
+
 
 1. Install [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe).
 2. Change Skyrim so it does not [automatically update](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
 3. Fully uninstall Skyrim by deleting the folder and the Skyrim Special edition folder inside /Documents/My Games/.
 4. Reinstall Skyrim into a location that is not Program files. Somewhere like C:\Games is a good location.
 5. Start the game once and let it do the graphics check. Do not worry about the settings as it will be replaced during installation.
-6. You also need to start the game to the main menu in order to download all the creations.
+
 
 > **Step 3 and 4 are only necessary if you modded the game without 'stock game' and cleaned the master files**
+
 
 ### Wabbajack Installation
 
@@ -166,7 +171,10 @@ Almost all of the MCM options are automatically configured for you already. Wait
 
 Note that all keybinding are set to my liking for a **Gamepad**. I do not know the keyboard and mouse settings as I don't use it for playing. 
 
-You can tweak the MCMs to your liking. 
+You can tweak the MCMs to your liking, but here's my recommendations:
+
+- Requiem - Expanded Grimoire: I disable the automatic spells upon taking a perk. Up to you
+- ZDO Immersive Death: I play with permadeath lite as I could call it. 50% chance to lose 1 life. You start with 3. turn the chance to 0 to turn off permadeath
 
 ***
 
