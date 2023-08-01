@@ -152,7 +152,7 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 
 ### Game Folder
 
-Nocturnia uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called “Game Root”. You don’t need to copy anything at all.
+Nocturnia uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called “Game Root”. 
 
 ***
 ## Playing the List
@@ -174,7 +174,7 @@ Note that all keybinding are set to my liking for a **Gamepad**. I do not know t
 You can tweak the MCMs to your liking, but here's my recommendations:
 
 - Requiem - Expanded Grimoire: I disable the automatic spells upon taking a perk. Up to you
-- ZDO Immersive Death: I play with permadeath lite as I could call it. 50% chance to lose 1 life. You start with 3. turn the chance to 0 to turn off permadeath
+- ZDO Immersive Death: I play with permadeath lite as I would call it. 50% chance to lose 1 life. You start with 3. turn the chance to 0 to turn off permadeath
 
 ***
 
