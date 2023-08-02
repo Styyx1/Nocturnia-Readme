@@ -68,6 +68,10 @@ full modlist can be viewed [here](https://loadorderlibrary.com/lists/nocturnia)
 
 Extended Grimoire disables the free spells you learn upon taking a perk. I have reverted that change but please tick the checkbox in its MCM to disable the spells again if you wish to do so. 
 
+
+[![Requiem Starter Guide](https://img.youtube.com/vi/fG7D8meR0cY/hqdefault.jpg)](https://youtu.be/fG7D8meR0cY)
+
+
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
