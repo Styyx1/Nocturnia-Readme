@@ -7,12 +7,14 @@ This list is completely made with a controller in mind cause I only play with ga
 
 ### Gamepad mod used: 
 - [Modern Controlmap (Gamepad and Keyboard)](https://www.nexusmods.com/skyrimspecialedition/mods/89649)
-- Wheeler Menu
 
-Open with: B/Circle
-Open in menu to assign stuff: Press right stick
-new wheel: N
-new Item card: M
+
+### Wheeler Menu
+- Open with: B/Circle  
+- Open in menu to assign stuff: Press right stick  
+- new wheel: N
+- new Item card: M
+- assign item to currently selected spot in the wheel: LB
 
 
 
