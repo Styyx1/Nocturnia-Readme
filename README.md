@@ -92,10 +92,10 @@ Extended Grimoire disables the free spells you learn upon taking a perk. I have 
 
 [![Requiem Starter Guide](https://img.youtube.com/vi/fG7D8meR0cY/hqdefault.jpg)](https://youtu.be/fG7D8meR0cY)
 
-
+***
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
-
+***
 ## System Requirements
 
 Nocturnia is aimed at fairly low tier machines but here's my system:
@@ -116,11 +116,11 @@ Space required:
  
 Size without downloads and space for temp files: 
 - Approx 60GB
-
+***
 ## Installation
 
 Installing Nocturnia is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the [updating section](#updating).
-
+***
 ### Pre-Installation
 
 Prior to installing Nocturnia, please complete the following steps.
@@ -135,7 +135,7 @@ Prior to installing Nocturnia, please complete the following steps.
 
 
 > **Step 3 and 4 are only necessary if you modded the game without 'stock game' and cleaned the master files**
-
+***
 
 ### Wabbajack Installation
 
@@ -208,7 +208,7 @@ You can tweak the MCMs to your liking, but here's my recommendations:
 After Starting the game, you'll be in front of a door with no way to move or anything. Open the Skyrim Unbound MCM and change your start options.
 When you're done customising it, click ``Start Game`` which takes you to the Race Menu to customise your character. Either select ``Continue`` to start right away or ``Stay Here`` to look around the starting area. When you're done looking through the area, press the start game hotkey to get the same options again. 
 The ``Special`` page shows the hotkey, by default it's ``NumPad +``.
-
+***
 ## Updating the modlist
 
 Before updating, please check the changelog and back up your saves. You may need to start a new game after certain updates.
@@ -218,16 +218,15 @@ Updating is like installing the list. Simply make sure your paths are the same a
 ## FAQ
 
 ### Controller Setup
-By default Nocturnia uses [this controller setup](https://www.nexusmods.com/skyrimspecialedition/mods/89649) but you can safely disable the mod in MO2 if you prefer the vanilla layout, we're not really using the keys it frees for anything, I just got used to the controls.
 
+Refer to the [Gamepad Keybind page](files\Gamepad-Keybinds.md) for any questions related to playing with a controller. 
+***
 ### Ultrawide Options
 
-I personally do not own an Ultrawide, so I cannot offer support. I added some widescreen variants of the mods in MO2, but I can't test them.
+I personally do not own an Ultrawide, so I cannot offer support. I added some widescreen variants of the mods in MO2, but I can't test them.  
+Filter for ``Widescreen`` at the bottom of MO2 and activate the unticked mods. I don't know if that's all you need, but that's all I can help with.
 
-#### Althro's recommendations
-
-Download [Dear Diary dark mode](https://www.nexusmods.com/skyrimspecialedition/mods/60837) and in the installer make sure to select 21x9. Place it above New Horizons UI. Horizon's UI will see the 21x9 data and patch it accordingly. Other tweaks may be needed, but this will fix the stretched UI.
-
+***
 ### Failed to create download folder
 
 Upon opening MO2 you may get a error warning like this: ``“failed to create G:/Modlist Downloads/Traveler your user account probably lacks permission”``. This is due to Wabbajack not changing the ini file of MO2. To fix this find the file ``ModOrganizer.ini`` inside the same folder as the MO2 exe is and change the line:``download_directory=G:/Modlist Downloads/Traveler`` to ``download_directory=Your Prefered Download Folder``. It's best to find the line inside the ini by using ``crtl + f``.
