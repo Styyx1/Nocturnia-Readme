@@ -16,7 +16,7 @@ This list is completely made with a controller in mind cause I only play with ga
 - new Item card: D-Pad down
 - assign item to currently selected spot in the wheel: RT
 
-<img src= />
+<img src="https://raw.githubusercontent.com/Styyx1/Nocturnia-Readme/master/files/WheelerMenuLayout.png"/>
 
 
 
