@@ -239,13 +239,6 @@ While the list is made with Survival enabled by default, you can disabled it in 
 
 ***
 
-### Help I can't open locks 
-
-The list uses Auto Lockpicking, you can safely disable it but it will probably break when you play with a controller.
-
-
-***
-
 ### Tweaking the Game Settings
 
 #### BethINI
