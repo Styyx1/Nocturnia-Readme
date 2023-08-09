@@ -57,14 +57,35 @@ Wabbajack Modlist Installer for Skyrim Special Edition by Styyx
   
 ## Preamble
 
-Nocturnia is a light weight requiem lists meant to get you into requiem. It features some Quest additions like Vigilant, Clockwork and Extended Cut Saint and Seducers, but it's mostly meant to overhaul the base game instead of being content heavy. There are also some Requiem Addons, more on that below.
+Nocturnia is a light weight Requiem lists meant to get you into Requiem. It features some Quest additions like Vigilant, Clockwork and Extended Cut Saint and Seducers, but it's mostly meant to overhaul the base game instead of being content heavy.  
+The focus is mostly on **exploration** and **survival**  
+There are also some Requiem Addons, more on that below.
 
-There's a few new enemies and there's also some increased enemy density, so be on your toes. 
+There's a few new enemies and there's also some increased enemy density with interesting mechanics like enemies calling reinforments.
 
-full modlist can be viewed [here](https://loadorderlibrary.com/lists/nocturnia)
+
+**full modlist can be viewed [here](https://loadorderlibrary.com/lists/nocturnia)**
+
+**What to expect from this list:**
+
+- Introduction to Requiem
+- focus on exploration
+- increased enemy density
+- some quest mods
+- survival mechanics
+
+**What not to expect:**
+- Next-Gen graphics (there are only very little graphic mods to keep the list size small)
+- Animation intense combat
+- Vanilla/Vanilla+ gameplay
+
 
 ## Mods to get familiar with:
-[Requiem obviously](https://www.nexusmods.com/skyrimspecialedition/mods/60888), [Noxcrab Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42591), [Minor Arcana](https://www.nexusmods.com/skyrimspecialedition/mods/61342), [Extended Grimoire](https://www.nexusmods.com/skyrimspecialedition/mods/39214) and [Small Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
+- [Requiem obviously](https://www.nexusmods.com/skyrimspecialedition/mods/60888)
+- [Noxcrab Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42591)
+- [Minor Arcana](https://www.nexusmods.com/skyrimspecialedition/mods/61342)
+- [Extended Grimoire](https://www.nexusmods.com/skyrimspecialedition/mods/39214)
+- [Small Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
 
 Extended Grimoire disables the free spells you learn upon taking a perk. I have reverted that change but please tick the checkbox in its MCM to disable the spells again if you wish to do so. 
 
@@ -90,10 +111,11 @@ It should run good on lower specs as well but I recommend at least 6GB VRAM (GPU
 **I can only answer performance questions about my specs as I don't have different systems flying around to check!**
 
 Space required: 
-- Approx 75GB (Downloads included) + 20-30GB space for temp files.
+- Approx 90GB (Downloads included) + 20-30GB space for temp files.
+- **You can safely delete the downloads after the list is installed**
  
 Size without downloads and space for temp files: 
-- Approx 51GB
+- Approx 60GB
 
 ## Installation
 
@@ -200,8 +222,7 @@ By default Nocturnia uses [this controller setup](https://www.nexusmods.com/skyr
 
 ### Ultrawide Options
 
-I personally do not own an Ultrawide, so I cannot offer support. If you can set it up with the mods present in the list, please tell me how or make a pull request for this part of the readme and write it in here.
-There are a few optional Widescreen mods in MO2, but I can not test anything as I don't have a monitor supporting widescreen.
+I personally do not own an Ultrawide, so I cannot offer support. I added some widescreen variants of the mods in MO2, but I can't test them.
 
 #### Althro's recommendations
 
