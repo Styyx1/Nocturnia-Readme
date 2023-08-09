@@ -219,7 +219,7 @@ Updating is like installing the list. Simply make sure your paths are the same a
 
 ### Controller Setup
 
-Refer to the [Gamepad Keybind page](files\Gamepad-Keybinds.md) for any questions related to playing with a controller. 
+Refer to the [Gamepad Keybind page](files/Gamepad-Keybinds.md) for any questions related to playing with a controller. 
 ***
 ### Ultrawide Options
 
