@@ -283,8 +283,9 @@ To see what changes happened in each version, please refer to the [Changelog.](h
 - Althro for assisting with so many things. You’re awesome.
 - Spaniard for being an invaluable source of knowledge and helping me a lot with the mod choices.
 - Destiny for proofreading the readme and pointing out many errors. Also for testing the list and giving helpful suggestion to improve it.
-- Abandoned by Arkay for helping me with Requiem and the addon choices
+- Sr. Kaio for testing the list and helping me find issues.
+- Abandoned by Arkay for helping me with Requiem and the addon choices.
 - The Animonculory Dev Team.
-- Phoenix for ``Skyrim Modding Essentials`` which this list used as a base 
+- Phoenix for ``Skyrim Modding Essentials`` which this list used as a base. 
 - Noggog for Mutagen.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.
