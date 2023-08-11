@@ -270,6 +270,8 @@ Simply delete the folder and you have uninstalled it.
 
 ## Known Issues
 
+[check](https://github.com/Styyx1/Nocturnia-Readme/blob/master/Known%20Issues.md)
+
 ## I found a bug
 
 
