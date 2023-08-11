@@ -246,7 +246,6 @@ While the list is made with Survival enabled by default, you can disabled it in 
 To get some more FPS, tweak the following value in the detail section in BethINI. You find BethINI inside the tools folder within the list installation folder.
 
 - `Shadow Resolution`: 2048
-- `Ambient Occlusion`: Either use this or the ENB version. The ENB version is more intensive. Do not have both turned on.
 - `Remove Shadows`: I really don’t recommend turning this on, but if you must then you can.
 
 ### Zoomed in Display
