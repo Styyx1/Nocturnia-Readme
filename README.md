@@ -7,8 +7,8 @@ Wabbajack Modlist Installer for Skyrim Special Edition by Styyx
 <tr>
 <td><img src="https://raw.githubusercontent.com/The-Animonculory/AVO/main/.github/WJIcon.png" width="64px" /></td>
 <td><a href="https://github.com/wabbajack-tools/wabbajack/releases">Download on Wabbajack</a></td>    
-<td><img src="https://raw.githubusercontent.com/The-Animonculory/AVO/main/.github/GitHub.png" width="72px" /></td>
-<td><a href="https://discord.gg/DffHKcszfg">Support Discord</a></td>
+<td><img src="https://cdn.discordapp.com/icons/997623524267139112/71c19848cc99c78d9f3c4854010ae065.webp?size=128" width="72px" /></td>
+<td><a href="https://discord.gg/JycmyqzZz7">Support Discord</a></td>
 </tr>
 </table>
 
