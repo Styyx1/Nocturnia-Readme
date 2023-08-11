@@ -273,7 +273,7 @@ Simply delete the folder and you have uninstalled it.
 [check](https://github.com/Styyx1/Nocturnia-Readme/blob/master/Known%20Issues.md)
 
 ## I found a bug
-
+report the bug [here](https://github.com/Styyx1/Nocturnia-Readme/issues/new?assignees=Styyx1&labels=bug&projects=&template=bug-report.md&title=%5BBUG%5D)
 
 ## Changelog
 
