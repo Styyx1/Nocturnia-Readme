@@ -57,14 +57,14 @@ Wabbajack Modlist Installer for Skyrim Special Edition by Styyx
   
 ## Preamble
 
-Nocturnia is a light weight Requiem lists meant to get you into Requiem. It features some Quest additions like Vigilant, Clockwork and Extended Cut Saint and Seducers, but it's mostly meant to overhaul the base game instead of being content heavy.  
-The focus is mostly on **exploration** and **survival**  
-There are also some Requiem Addons, more on that below.
+Nocturnia is a light weight Requiem list meant to get you into Requiem. It features some Quest additions like Vigilant, Clockwork and Extended Cut Saint and Seducers, but it's mostly meant to overhaul the base game instead of being content heavy.  
+The focus is mostly on **exploration** and **survival.**  
+There are also some Requiem Addons. More on that below.
 
 There's a few new enemies and there's also some increased enemy density with interesting mechanics like enemies calling reinforments.
 
 
-**full modlist can be viewed [here](https://loadorderlibrary.com/lists/nocturnia)**
+**Full modlist can be viewed [here](https://loadorderlibrary.com/lists/nocturnia)**
 
 **What to expect from this list:**
 
@@ -106,7 +106,7 @@ Nocturnia is aimed at fairly low tier machines but here's my system:
 - Drive: SSD
 - GPU: NVIDIA GeForce RTX 3070 8GB
 
-It should run good on lower specs as well but I recommend at least 6GB VRAM (GPU)
+It should run fine on lower specs as well, but I recommend at least 6GB VRAM (GPU).
 
 **I can only answer performance questions about my specs as I don't have different systems flying around to check!**
 
@@ -190,7 +190,7 @@ Make sure the dropdown box on the right is set to `Play Nocturnia` and press the
 
 ***
 
-### In-Game MCM options
+### In-Game MCM Options
 
 Almost all of the MCM options are automatically configured for you already. Wait until all notifications on the top left are gone before opening the MCM. 
 **Failing to do so will cause quite a few issues later on and will require you to start a new save.** 
@@ -199,15 +199,15 @@ Note that all keybinding are set to my liking for a **Gamepad**. I do not know t
 
 You can tweak the MCMs to your liking, but here's my recommendations:
 
-- Requiem - Expanded Grimoire: I disable the automatic spells upon taking a perk. Up to you
-- ZDO Immersive Death: I play with permadeath lite as I would call it. 50% chance to lose 1 life. You start with 3. turn the chance to 0 to turn off permadeath
+- Requiem - Expanded Grimoire: I disable the automatic spells upon taking a perk. Up to you.
+- ZDO Immersive Death: I play with permadeath lite as I would call it. 50% chance to lose 1 life. You start with 3. Turn the chance to 0 to turn off permadeath.
 
 ***
 
 ### Starting the Game
 After Starting the game, you'll be in front of a door with no way to move or anything. Open the Skyrim Unbound MCM and change your start options.
 When you're done customising it, click ``Start Game`` which takes you to the Race Menu to customise your character. Either select ``Continue`` to start right away or ``Stay Here`` to look around the starting area. When you're done looking through the area, press the start game hotkey to get the same options again. 
-The ``Special`` page shows the hotkey, by default it's ``NumPad +``.
+The ``Special`` Page shows the hotkey. By default it's ``NumPad +``.
 ***
 ## Updating the modlist
 
@@ -229,7 +229,7 @@ Filter for ``Widescreen`` at the bottom of MO2 and activate the unticked mods. I
 ***
 ### Failed to create download folder
 
-Upon opening MO2 you may get a error warning like this: ``“failed to create G:/Modlist Downloads/Traveler your user account probably lacks permission”``. This is due to Wabbajack not changing the ini file of MO2. To fix this find the file ``ModOrganizer.ini`` inside the same folder as the MO2 exe is and change the line:``download_directory=G:/Modlist Downloads/Traveler`` to ``download_directory=Your Prefered Download Folder``. It's best to find the line inside the ini by using ``crtl + f``.
+Upon opening MO2 you may get a error warning like this: ``“Failed to create G:/Modlist Downloads/Traveler your user account probably lacks permission”``. This is due to Wabbajack not changing the ini file of MO2. To fix this find the file ``ModOrganizer.ini`` inside the same folder as the MO2 exe is and change the line:``download_directory=G:/Modlist Downloads/Traveler`` to ``download_directory=Your Prefered Download Folder``. It's best to find the line inside the ini by using ``crtl + f``.
 
 ***
 
@@ -275,7 +275,7 @@ Simply delete the folder and you have uninstalled it.
 
 ## Changelog
 
-For see what changes happened in each version please refer to the [Changelog](https://github.com/Styyx1/Nocturnia-Readme/blob/Update-4.0/Changelog.md). Please note that after a major version update (x.0.0), the changelog might not cover every change.
+To see what changes happened in each version, please refer to the [Changelog.](https://github.com/Styyx1/Nocturnia-Readme/blob/Update-4.0/Changelog.md) Please note that after a major version update (x.0.0), the changelog might not cover every change.
 
 ## Credits and Thanks
 
