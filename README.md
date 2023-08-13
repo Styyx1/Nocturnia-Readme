@@ -19,6 +19,9 @@ Wabbajack Modlist Installer for Skyrim Special Edition by Styyx
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+***
+<details>
+<summary> <h1>Contents </summary>
 
 - [Preamble](#preamble)
 - [Mods to get familiar with:](#mods-to-get-familiar-with)
@@ -51,8 +54,10 @@ Wabbajack Modlist Installer for Skyrim Special Edition by Styyx
 - [I found a bug](#i-found-a-bug)
 - [Changelog](#changelog)
 - [Credits and Thanks](#credits-and-thanks)
+</details>
 
-  
+***
+
 ## Preamble
 
 Nocturnia is a light weight Requiem list meant to get you into Requiem. It features some Quest additions like Vigilant, Clockwork and Extended Cut Saint and Seducers, but it's mostly meant to overhaul the base game instead of being content heavy.  
@@ -63,7 +68,7 @@ There's a few new enemies and there's also some increased enemy density with int
 
 
 **Full modlist can be viewed [here](https://loadorderlibrary.com/lists/nocturnia)**
-
+***
 **What to expect from this list:**
 
 - Introduction to Requiem
@@ -76,7 +81,7 @@ There's a few new enemies and there's also some increased enemy density with int
 - Next-Gen graphics (there are only very little graphic mods to keep the list size small)
 - Animation intense combat
 - Vanilla/Vanilla+ gameplay
-
+***
 
 ## Mods to get familiar with:
 - [Requiem obviously](https://www.nexusmods.com/skyrimspecialedition/mods/60888)
@@ -86,8 +91,10 @@ There's a few new enemies and there's also some increased enemy density with int
 - [Small Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
 
 Extended Grimoire disables the free spells you learn upon taking a perk. I have reverted that change but please tick the checkbox in its MCM to disable the spells again if you wish to do so. 
+***
+Some mods/mechanics are customised by me, check out [a short summary](/files/CustomChanges.md) of some of them.
 
-
+***
 [![Requiem Starter Guide](https://img.youtube.com/vi/fG7D8meR0cY/hqdefault.jpg)](https://youtu.be/fG7D8meR0cY)
 
 ***

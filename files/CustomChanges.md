@@ -1,0 +1,15 @@
+# Custom Changes
+
+**Some mechanics/mods are changed by me so the mod pages may not always be accurate**  
+I try to keep track of the most important changes
+
+- Standing Stones: Only the 3 Guardian Stones are free to use, the other ones are guarded by enemies. You need to explore the surroundings (including dungeons) to find them.
+- Expanded Grimoire: Enabled the automatic spell gain upon getting the magic perks
+- Potion of Obtainable Progress: locations are random with every update (unless I forget)
+- Insightful Leveling: more creatures can give insights
+
+
+## Random Changes 
+- Inn Cost: 50 --> 75
+- Carriage Cost: 100 - 150 | 200 --> 250
+- attack turn angle set to roughly 10% of vanilla
