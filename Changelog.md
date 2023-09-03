@@ -1,4 +1,30 @@
 # Changelog
+
+***
+
+## 1.1.0
+### Update <ins>does require</ins> a new game
+
+### Gameplay
+- Added Candleheart
+- changed some artifact and gave some unique items interesting effects
+- added some QOL mods (like: detect keys spell, cold water grease)
+- Balanced out followers a bit
+- Lockpicking is on a timer now
+- added starter player home in Riverwood
+- added improved camera
+- added balancing to placed weapons
+- slowed down movement speed a bit (felt way too fast)
+### Visuals
+- new ReShade preset (again)
+- added Light Limit Fix
+- pre-installed Shader Cache for faster start up times
+- fixed some of the bright snow
+- fixed some floating trees
+- regenerated LODs
+<details>
+<summary> <h3>Older Updates </summary>
+
 ## 1.0.2
 **Update is save safe**
 - 'fixed' bounty bug
@@ -19,3 +45,5 @@
 
 make list installable
 updated reshade
+
+</details>

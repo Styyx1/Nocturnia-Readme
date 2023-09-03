@@ -53,6 +53,7 @@ Wabbajack Modlist Installer for Skyrim Special Edition by Styyx
 - [Known Issues](#known-issues)
 - [I found a bug](#i-found-a-bug)
 - [Changelog](#changelog)
+- [Support](#support)
 - [Credits and Thanks](#credits-and-thanks)
 </details>
 
@@ -283,6 +284,11 @@ report the bug [here](https://github.com/Styyx1/Nocturnia-Readme/issues/new?assi
 
 To see what changes happened in each version, please refer to the [Changelog.](https://github.com/Styyx1/Nocturnia-Readme/blob/Update-4.0/Changelog.md) Please note that after a major version update (x.0.0), the changelog might not cover every change.
 
+## Support
+
+If you feel like I did a good job with the list and want to support my work, consider donating to my [ko-fi](https://ko-fi.com/styyx). 
+
+
 ## Credits and Thanks
 
 - _YOU_ for reading this.
@@ -291,7 +297,8 @@ To see what changes happened in each version, please refer to the [Changelog.](h
 - Destiny for proofreading the readme and pointing out many errors. Also for testing the list and giving helpful suggestion to improve it.
 - Sr. Kaio for testing the list and helping me find issues.
 - Abandoned by Arkay for helping me with Requiem and the addon choices.
+- Zélie for ideas to work without the DLC
 - The Animonculory Dev Team.
-- Phoenix for ``Skyrim Modding Essentials`` which this list used as a base. 
+- Phoenix for [Skyrim Modding Essentials](https://thephoenixflavour.com/skyrim-se/sme/) which this list used as a base and helped me setup everything easily. 
 - Noggog for Mutagen.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.

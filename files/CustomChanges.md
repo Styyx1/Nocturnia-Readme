@@ -10,6 +10,8 @@ I try to keep track of the most important changes
 
 
 ## Random Changes 
-- Inn Cost: 50 --> 75
-- Carriage Cost: 100 - 150 | 200 --> 250
+- Inn Cost: 150 - 2000
+- Carriage Cost: 100 --> 150 | 200 --> 250
 - attack turn angle set to roughly 10% of vanilla
+- magic attack turn slowed down
+- many movement speed changes
