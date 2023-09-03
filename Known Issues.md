@@ -1,5 +1,6 @@
 ### Known Issues
 
 - snow is very bright in some weathers at some places
+- not an issue but worth noting: Key for the starter home in Riverwood needs to be stolen and won't be granted automatically.
 
 
