@@ -282,7 +282,7 @@ report the bug [here](https://github.com/Styyx1/Nocturnia-Readme/issues/new?assi
 
 ## Changelog
 
-To see what changes happened in each version, please refer to the [Changelog.](https://github.com/Styyx1/Nocturnia-Readme/blob/Update-4.0/Changelog.md) Please note that after a major version update (x.0.0), the changelog might not cover every change.
+To see what changes happened in each version, please refer to the [Changelog.](/Changelog.md) Please note that after a major version update (x.0.0), the changelog might not cover every change.
 
 ## Support
 
