@@ -2,6 +2,9 @@
 
 ***
 
+## 1.1.3
+### Same as 1.1.2 but with shader cache for faster start time
+
 ## 1.1.2
 ### Update <ins>does not require</ins> a new game
 Warnings about missing plugins can be safely ignored. Just make sure to make a save right after you loaded in.
@@ -15,6 +18,8 @@ Warnings about missing plugins can be safely ignored. Just make sure to make a s
 ### Visuals
 - Particle Lights Pack 
 - updated Community Shaders to fix a detection bug
+
+
 
 <details>
 <summary> <h3>Older Updates </summary>
