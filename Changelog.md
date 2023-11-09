@@ -2,6 +2,27 @@
 
 ***
 
+## 1.1.2
+### Update <ins>does not require</ins> a new game
+Warnings about missing plugins can be safely ignored. Just make sure to make a save right after you loaded in.
+
+### Gameplay
+- Skill Based Dynamic Animations
+- Pick-up Radius
+- Daedric Aspect
+- Spontaneous Output Spread (adds ranges to damage so not every hit does the same amount of damage)
+- **Removed the now paywalled Distar creature mod**
+
+### Visuals
+- Particle Lights Pack 
+- updated Community Shaders to fix a detection bug
+
+<details>
+<summary> <h3>Older Updates </summary>
+
+## 1.1.1
+### Fixes install issues, no new game required
+
 ## 1.1.0
 ### Update <ins>does require</ins> a new game
 
@@ -22,8 +43,6 @@
 - fixed some of the bright snow
 - fixed some floating trees
 - regenerated LODs
-<details>
-<summary> <h3>Older Updates </summary>
 
 ## 1.0.2
 **Update is save safe**
