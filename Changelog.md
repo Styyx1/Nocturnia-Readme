@@ -8,7 +8,6 @@ Warnings about missing plugins can be safely ignored. Just make sure to make a s
 
 ### Gameplay
 - Skill Based Dynamic Animations
-- Pick-up Radius
 - Daedric Aspect
 - Spontaneous Output Spread (adds ranges to damage so not every hit does the same amount of damage)
 - **Removed the now paywalled Distar creature mod**
