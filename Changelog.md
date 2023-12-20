@@ -8,7 +8,7 @@
 
 ### Gameplay
 - Removed ZDO due to it not working correctly
-- Fixed infinite loading
+- Fixed infinite loading (hopefully as it is a Wabbajack issue, not one with the list)
 - Fixed Robes canceling all racial abilities
 
 
