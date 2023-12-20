@@ -2,6 +2,22 @@
 
 ***
 
+## 1.1.5
+### Small Bug Fixes 
+**Update requires a new game unless you deactivate ZDO in its MCM before updating**
+
+### Gameplay
+- Removed ZDO due to it not working correctly
+- Fixed infinite loading
+- Fixed Robes canceling all racial abilities
+
+
+<details>
+<summary> <h3>Older Updates </summary>
+
+## 1.1.4
+### Still the same, but installable with the latest update of skyrim
+
 ## 1.1.3
 ### Same as 1.1.2 but with shader cache for faster start time
 
@@ -18,11 +34,6 @@ Warnings about missing plugins can be safely ignored. Just make sure to make a s
 ### Visuals
 - Particle Lights Pack 
 - updated Community Shaders to fix a detection bug
-
-
-
-<details>
-<summary> <h3>Older Updates </summary>
 
 ## 1.1.1
 ### Fixes install issues, no new game required
