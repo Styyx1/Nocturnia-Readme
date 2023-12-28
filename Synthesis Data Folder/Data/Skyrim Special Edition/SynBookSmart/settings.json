@@ -1,0 +1,9 @@
+{
+  "labelPosition": "After_Name",
+  "labelFormat": "Long",
+  "encapsulatingCharacters": "Parenthesis",
+  "addSkillLabels": true,
+  "addMapMarkerLabels": true,
+  "addQuestLabels": true,
+  "assumeBookScriptsAreQuests": false
+}

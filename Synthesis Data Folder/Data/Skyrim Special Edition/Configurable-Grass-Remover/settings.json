@@ -1,0 +1,22 @@
+{
+  "Mode": "Blacklist",
+  "Worldspaces": [
+    "00003C:Skyrim.esm",
+    "03A9D6:Skyrim.esm",
+    "02EE41:Skyrim.esm",
+    "01E49D:Skyrim.esm",
+    "01FAE2:Skyrim.esm",
+    "0204C7:Skyrim.esm",
+    "020BFE:Skyrim.esm",
+    "016BB4:Skyrim.esm",
+    "0278DD:Skyrim.esm",
+    "094B35:Skyrim.esm",
+    "01CDD3:Skyrim.esm",
+    "034240:Skyrim.esm",
+    "007202:Dawnguard.esm",
+    "000BB5:Dawnguard.esm",
+    "001DB8:Dawnguard.esm",
+    "0048C7:Dawnguard.esm",
+    "000800:Dragonborn.esm"
+  ]
+}

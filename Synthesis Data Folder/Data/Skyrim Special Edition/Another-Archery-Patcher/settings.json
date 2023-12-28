@@ -1,0 +1,144 @@
+{
+  "ProjectileCategories": [
+    {
+      "Identifier": "Default",
+      "Priority": 0,
+      "Speed": 3600.0,
+      "Gravity": 0.34,
+      "ImpactForce": 0.44,
+      "SoundLevel": "Silent",
+      "Flags": [],
+      "MatchList": []
+    },
+    {
+      "Identifier": "Arrows",
+      "Priority": 1,
+      "Speed": 3600.0,
+      "Gravity": 0.34,
+      "ImpactForce": 0.44,
+      "SoundLevel": "Silent",
+      "Flags": [],
+      "MatchList": [
+        "Arrow"
+      ]
+    },
+    {
+      "Identifier": "Bloodcursed Arrows",
+      "Priority": 2,
+      "Speed": 3600.0,
+      "Gravity": 0.0,
+      "ImpactForce": 0.44,
+      "SoundLevel": "Silent",
+      "Flags": [],
+      "MatchList": [
+        "DCL1ArrowElvenBloodProjectile",
+        "DLC1AurielsBloodDippedProjectile"
+      ]
+    },
+    {
+      "Identifier": "Bolts",
+      "Priority": 1,
+      "Speed": 5000.0,
+      "Gravity": 0.34,
+      "ImpactForce": 0.64,
+      "SoundLevel": "Normal",
+      "Flags": [],
+      "MatchList": [
+        "Bolt"
+      ]
+    },
+    {
+      "Identifier": "Explosive Bolts",
+      "Priority": 1,
+      "Speed": 4500.0,
+      "Gravity": 0.34,
+      "ImpactForce": 2.0,
+      "SoundLevel": "Loud",
+      "Flags": [],
+      "MatchList": [
+        "Bolt"
+      ]
+    },
+    {
+      "Identifier": "Spears",
+      "Priority": 1,
+      "Speed": 2100.0,
+      "Gravity": 0.13,
+      "ImpactForce": 1.1,
+      "SoundLevel": "Silent",
+      "Flags": [],
+      "MatchList": [
+        "Riekling",
+        "SSM",
+        "Throw"
+      ]
+    },
+    {
+      "Identifier": "Dart Traps",
+      "Priority": 2,
+      "Speed": 2000.0,
+      "Gravity": 0.07,
+      "ImpactForce": 0.2,
+      "SoundLevel": "Normal",
+      "Flags": [
+        {
+          "Flag": "DisableCombatAimCorrection",
+          "State": "Remove"
+        }
+      ],
+      "MatchList": [
+        "TrapDart"
+      ]
+    },
+    {
+      "Identifier": "Ballista Traps",
+      "Priority": 3,
+      "Speed": 4500.0,
+      "Gravity": 0.69,
+      "ImpactForce": 75.0,
+      "SoundLevel": "VeryLoud",
+      "Flags": [
+        {
+          "Flag": "DisableCombatAimCorrection",
+          "State": "Remove"
+        }
+      ],
+      "MatchList": [
+        "TrapDweBallista"
+      ]
+    }
+  ],
+  "GlobalFlagTweaks": [
+    {
+      "Flag": "Supersonic",
+      "State": "Remove"
+    }
+  ],
+  "GameSettings": {
+    "DisableAutoaim": true,
+    "DisableNpcDodge": true,
+    "MaxAttachedArrows": 8,
+    "FullDrawArrowSpeedMult": 1.1,
+    "ArrowRecoveryChance": 25,
+    "CollisionMaxDistFromPlayer": 12288.0
+  },
+  "Blacklist": [
+    "105EE6:Skyrim.esm"
+  ],
+  "AmmoTweaksArrow": {
+    "DamageIsModifier": true,
+    "Damage": 0.0,
+    "ValueIsModifier": true,
+    "Value": 0,
+    "WeightIsModifier": true,
+    "Weight": 0.0
+  },
+  "AmmoTweaksBolt": {
+    "DamageIsModifier": true,
+    "Damage": 0.0,
+    "ValueIsModifier": true,
+    "Value": 0,
+    "WeightIsModifier": true,
+    "Weight": 0.0
+  }
+}

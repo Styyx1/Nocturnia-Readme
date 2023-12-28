@@ -1,0 +1,124 @@
+{
+  "GrassCategories": [
+    {
+      "Identifier": "Grass",
+      "OffsetMode": false,
+      "RecordFilters": {
+        "IsBlacklist": false,
+        "FormLinks": [],
+        "EDIDRegex": [
+          "(?i)grass"
+        ],
+        "Mods": []
+      },
+      "Density": {
+        "EnableProperty": true,
+        "Value": 80
+      },
+      "MinSlope": {
+        "EnableProperty": false,
+        "Value": 0
+      },
+      "MaxSlope": {
+        "EnableProperty": true,
+        "Value": 90
+      },
+      "UnitsFromWater": {
+        "EnableProperty": false,
+        "Value": 0
+      },
+      "UnitsFromWaterType": {
+        "EnableProperty": false,
+        "Value": "AboveAtLeast"
+      },
+      "PositionRange": {
+        "EnableProperty": true,
+        "Value": 1.0
+      },
+      "HeightRange": {
+        "EnableProperty": false,
+        "Value": 0.0
+      },
+      "ColorRange": {
+        "EnableProperty": false,
+        "Value": 0.0
+      },
+      "WavePeriod": {
+        "EnableProperty": false,
+        "Value": 0.0
+      },
+      "Flags": {
+        "FlagChanges": []
+      }
+    },
+    {
+      "Identifier": "Windy Grass",
+      "OffsetMode": false,
+      "RecordFilters": {
+        "IsBlacklist": false,
+        "FormLinks": [],
+        "EDIDRegex": [
+          "(?i)windy"
+        ],
+        "Mods": []
+      },
+      "Density": {
+        "EnableProperty": false,
+        "Value": 0
+      },
+      "MinSlope": {
+        "EnableProperty": false,
+        "Value": 0
+      },
+      "MaxSlope": {
+        "EnableProperty": false,
+        "Value": 0
+      },
+      "UnitsFromWater": {
+        "EnableProperty": false,
+        "Value": 0
+      },
+      "UnitsFromWaterType": {
+        "EnableProperty": false,
+        "Value": "AboveAtLeast"
+      },
+      "PositionRange": {
+        "EnableProperty": false,
+        "Value": 0.0
+      },
+      "HeightRange": {
+        "EnableProperty": false,
+        "Value": 0.0
+      },
+      "ColorRange": {
+        "EnableProperty": false,
+        "Value": 0.0
+      },
+      "WavePeriod": {
+        "EnableProperty": true,
+        "Value": 300.0
+      },
+      "Flags": {
+        "FlagChanges": []
+      }
+    }
+  ],
+  "GlobalFilters": {
+    "ModBlacklist": [],
+    "EnableModWhitelist": false,
+    "ModWhitelist": [],
+    "RecordBlacklist": []
+  },
+  "RegexSettings": {
+    "RegexOptions": {
+      "FlagChanges": [
+        {
+          "Flag": "Compiled",
+          "Operator": "Enable"
+        }
+      ]
+    },
+    "RegexTimeoutMilliseconds": 3000,
+    "DisableRegexTimeout": false
+  }
+}

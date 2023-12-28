@@ -1,0 +1,9 @@
+{
+	"LocTypeShop": 25,
+	"LocTypeHabitation": 35,
+	"LocTypeCamps": 75,
+	"LocTypeDungeon": 100,
+	"LocTypeWealthy": 15,
+	"LocTypeSpecial": 80,
+	"Base": 50
+}
