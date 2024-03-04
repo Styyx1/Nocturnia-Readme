@@ -2,6 +2,21 @@
 
 ***
 
+## 1.2.0
+**Update requires a new game**
+
+## Gameplay
+
+- new alternate death mod
+- fixed removal of active effects like racial abilities
+- fixed Tower Stone not working
+- changed how leveling works. It's now vanilla skill leveling (though a bit slower) + Experience for character level
+- made the list installable with the (currently) latest version of the game in steam (1.6.1170)
+
+
+<details>
+<summary> <h3>Older Updates </summary>
+
 ## 1.1.5
 ### Small Bug Fixes 
 **Update requires a new game unless you deactivate ZDO in its MCM before updating**
@@ -11,9 +26,6 @@
 - Fixed infinite loading (hopefully as it is a Wabbajack issue, not one with the list)
 - Fixed Robes canceling all racial abilities
 
-
-<details>
-<summary> <h3>Older Updates </summary>
 
 ## 1.1.4
 ### Still the same, but installable with the latest update of skyrim
