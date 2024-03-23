@@ -12,6 +12,10 @@
 - fixed Tower Stone not working
 - changed how leveling works. It's now vanilla skill leveling (though a bit slower) + Experience for character level
 - made the list installable with the (currently) latest version of the game in steam (1.6.1170)
+- Removed Improved Camera
+- updated MO2 and plugins
+- updated and expanded Community Shaders
+- updated a few mods
 
 
 <details>
