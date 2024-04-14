@@ -16,6 +16,9 @@
 - updated MO2 and plugins
 - updated and expanded Community Shaders
 - updated a few mods
+- added mimics
+- removed AMOT and replaced it with Show My Time. default key is F11
+- new ReShade Preset used
 
 
 <details>
