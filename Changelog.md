@@ -2,7 +2,7 @@
 
 ***
 
-## 1.2.0
+## 1.2.0 (currently in progress)
 **Update requires a new game**
 
 ## Gameplay
@@ -19,6 +19,9 @@
 - added mimics
 - removed AMOT and replaced it with Show My Time. default key is F11
 - new ReShade Preset used
+- Fixed skill not leveling
+- removed kaputt and added another mod to remove killmoves (hopefully)
+
 
 
 <details>
