@@ -39,7 +39,7 @@
 - new alternate start mod (Optional Quick Start) to have a simple but well working start mod
 - new tree mod
 - overhauled morthal area, it's now a really scary swamp
-- added soulsy HUD
+- added wheeler (for now, may switch back to soulsy HUD again. undecided yet)
 - new HUD setup
 - more inspiration from Darkest Dungeons (the game)
 - added followers
