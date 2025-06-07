@@ -224,7 +224,7 @@ Updating is like installing the list. Simply make sure your paths are the same a
 ## FAQ
 
 ### Failed download for Rare Curios
-Bethesda uploaded different files to their ingame store and steam. If you fail, delete the files ``bgssse037-curios.bsa`` and ``bgssse037-curios.esl`` and download them from the ingame mod store via starting the game from steam.
+Bethesda uploaded different files to their ingame store and steam. If you fail, delete the files ``bgssse037-curios.bsa`` and ``bgssse037-curios.esl`` and download them from the ingame mod store via starting the game from steam. 
 
 ### Controller Setup
 
