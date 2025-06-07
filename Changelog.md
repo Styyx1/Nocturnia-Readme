@@ -2,25 +2,53 @@
 
 ***
 
-## 1.2.0 (currently in progress)
+## 2.0.0 (currently in progress)
 **Update requires a new game**
 
-## Gameplay
+## Summary
 
-- new alternate death mod
+### This is a complete rebuild of the list, so the summary is absolutely not complete and the list can't really be compared to the previous version anymore.
+- new alternate death mod --> you can only be revived if you don't have any injury, check [Shades of Mortality](https://www.nexusmods.com/skyrimspecialedition/mods/136825) for details
 - fixed removal of active effects like racial abilities
 - fixed Tower Stone not working
-- changed how leveling works. It's now vanilla skill leveling (though a bit slower) + Experience for character level
+- changed how leveling works. It's now static skill leveling + Experience for character level
 - made the list installable with the (currently) latest version of the game in steam (1.6.1170)
 - Removed Improved Camera
 - updated MO2 and plugins
 - updated and expanded Community Shaders
+- added FrameGen
 - updated a few mods
-- added mimics
 - removed AMOT and replaced it with Show My Time. default key is F11
-- new ReShade Preset used
 - Fixed skill not leveling
 - removed kaputt and added another mod to remove killmoves (hopefully)
+- new graphics
+- removed most quest mods (since i never play them anyway)
+- added a bunch of new creatures and locations
+- added combat stress
+- added sanity mechanics
+- added more noxcrab mods and removed Extended Grimoire
+- added stance system to change your playstyle a bit (Stances NG ini file to see and change the keybinds)
+- compass and map need items to show (you can get a map and a compass with the starting gear)
+- removed hunger from survival mode
+- added timed block 
+- reworked combat in general
+- added some randomised enemies
+- vendor mimics (like in dead cells if you know that game)
+- added mimics
+- changed lighting mods to Placed Lights
+- new alternate start mod (Optional Quick Start) to have a simple but well working start mod
+- new tree mod
+- overhauled morthal area, it's now a really scary swamp
+- added soulsy HUD
+- new HUD setup
+- more inspiration from Darkest Dungeons (the game)
+- added followers
+- added small player homes
+- separate animations for battlestaff and quarterstaff
+- added a few small quests and new locations
+
+
+
 
 
 

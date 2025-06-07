@@ -61,12 +61,11 @@ Wabbajack Modlist Installer for Skyrim Special Edition by Styyx
 
 ## Preamble
 
-Nocturnia is a light weight Requiem list meant to get you into Requiem. It features some Quest additions like Vigilant, Clockwork and Extended Cut Saint and Seducers, but it's mostly meant to overhaul the base game instead of being content heavy.  
-The focus is mostly on **exploration** and **survival.**  
+Nocturnia is a combat focused Requiem list fit for Requiem beginners. The focus of the list lies on enemy variety and exploration. There's not many new quests because the base game offers already more than I actually play. 
+Some vanilla quests are overhauled and there is Darkend for you to explore as well.  
 There are also some Requiem Addons. More on that below.
 
-There's a few new enemies and there's also some increased enemy density with interesting mechanics like enemies calling reinforments.
-
+There's a ton of new enemies, some fitting better than others, and there's also some increased enemy density with interesting mechanics like enemies calling reinforments.
 
 **Full modlist can be viewed [here](https://loadorderlibrary.com/lists/nocturnia)**
 ***
@@ -75,11 +74,11 @@ There's a few new enemies and there's also some increased enemy density with int
 - Introduction to Requiem
 - focus on exploration
 - increased enemy density
-- some quest mods
-- survival mechanics
+- ton of new enemy types
+- survival mechanics, mostly focused on cold, optionally fully patched for hunger though
 
 **What not to expect:**
-- Next-Gen graphics (there are only very little graphic mods to keep the list size small)
+- Next-Gen graphics (there are only little graphic mods and only for stuff I care about)
 - Animation intense combat
 - Vanilla/Vanilla+ gameplay
 ***
@@ -88,10 +87,9 @@ There's a few new enemies and there's also some increased enemy density with int
 - [Requiem obviously](https://www.nexusmods.com/skyrimspecialedition/mods/60888)
 - [Noxcrab Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42591)
 - [Minor Arcana](https://www.nexusmods.com/skyrimspecialedition/mods/61342)
-- [Extended Grimoire](https://www.nexusmods.com/skyrimspecialedition/mods/39214)
+- [Requiem - Magic Redone](https://www.nexusmods.com/skyrimspecialedition/mods/59302)
 - [Small Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42633)
-
-Extended Grimoire disables the free spells you learn upon taking a perk. I have reverted that change but please tick the checkbox in its MCM to disable the spells again if you wish to do so. 
+ 
 ***
 Some mods/mechanics are customised by me, check out [a short summary](/files/CustomChanges.md) of some of them.
 
@@ -112,16 +110,17 @@ Nocturnia is aimed at fairly low tier machines but here's my system:
 - Drive: SSD
 - GPU: NVIDIA GeForce RTX 3070 8GB
 
+I play the list with 60 fps locked and only slightly go below that in Morthal.
 It should run fine on lower specs as well, but I recommend at least 6GB VRAM (GPU).
 
 **I can only answer performance questions about my specs as I don't have different systems flying around to check!**
 
 Space required: 
-- Approx 90GB (Downloads included) + 20-30GB space for temp files.
+- Approx 140GB (Downloads included, ~90GB without downloads) + 20-30GB space for temp files. I tried to keep the size small, but that's the best I could do for now.
 - **You can safely delete the downloads after the list is installed**
  
 Size without downloads and space for temp files: 
-- Approx 60GB
+- Approx 90GB
 ***
 ## Installation
 
@@ -180,11 +179,15 @@ It is possible that you may encounter an error with Wabbajack when installing. S
 - Antivirus reports a virus:
 	- Windows 10/11 may automatically quarantine a key file which is needed for Mod Organizer. You can fix this by [adding an exclusion for Mod Organizer in windows defender](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
+- Files beginning with ``Data_`` fail to download:
+    - these are the game's files. the list is compiled with version 1.6.1170, if it updated since then, this is why you have that error. Either wait for me to update the list or downgrade your game via steam console (you will find tons of tutorials for how to do that online, use google)
+
+
 ## Post-Installation
 
 ### Game Folder
 
-Nocturnia uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called “Game Root”. 
+Nocturnia uses a Wabbajack feature called Stock Game to keep your Skyrim installation clean. All the files that you need to run the list are in a folder called ``Stock Game``. 
 
 ***
 ## Playing the List
@@ -203,17 +206,14 @@ Almost all of the MCM options are automatically configured for you already. Wait
 
 Note that all keybinding are set to my liking for a **Gamepad**. I do not know the keyboard and mouse settings as I don't use it for playing. 
 
-You can tweak the MCMs to your liking, but here's my recommendations:
-
-- Requiem - Expanded Grimoire: I disable the automatic spells upon taking a perk. Up to you.
-- ZDO Immersive Death: I play with permadeath lite as I would call it. 50% chance to lose 1 life. You start with 3. Turn the chance to 0 to turn off permadeath.
+You can tweak the MCMs to your liking, just use common sense and don't complain if the settings you changed break stuff because there may or may not be a reason I picked certain options by default.
 
 ***
 
 ### Starting the Game
-After Starting the game, you'll be in front of a door with no way to move or anything. Open the Skyrim Unbound MCM and change your start options.
-When you're done customising it, click ``Start Game`` which takes you to the Race Menu to customise your character. Either select ``Continue`` to start right away or ``Stay Here`` to look around the starting area. When you're done looking through the area, press the start game hotkey to get the same options again. 
-The ``Special`` Page shows the hotkey. By default it's ``NumPad +``.
+After starting the game you are asked if you want to skip the intro. For the love of whoever, please click `yes` as I did not test the vanilla intro and won't fix any issues it comes with.
+You can then create your character as you wish. After finishing your character, MCM recorder starts automatically, wait for it to finish before you proceed. 
+**INFO:** if you are prompted with an error and are asked to try again or skip, just select skip, that is usually because i forgot to remove a recording of a MCM that doesn't exist anymore. No big deal, nothing bad will happen.
 ***
 ## Updating the modlist
 
@@ -222,6 +222,9 @@ Before updating, please check the changelog and back up your saves. You may need
 Updating is like installing the list. Simply make sure your paths are the same and tick the `overwrite existing modlist` button. **Note**: Any mods you have added will be deleted when updating.
 
 ## FAQ
+
+### Failed download for Rare Curios
+Bethesda uploaded different files to their ingame store and steam. If you fail, delete the files ``bgssse037-curios.bsa`` and ``bgssse037-curios.esl`` and download them from the ingame mod store via starting the game from steam.
 
 ### Controller Setup
 
@@ -236,15 +239,29 @@ Filter for ``Widescreen`` at the bottom of MO2 and activate the unticked mods. I
 ### Failed to create download folder
 
 Upon opening MO2 you may get a error warning like this: ``“Failed to create G:/Modlist Downloads/Traveler your user account probably lacks permission”``. This is due to Wabbajack not changing the ini file of MO2. To fix this find the file ``ModOrganizer.ini`` inside the same folder as the MO2 exe is and change the line:``download_directory=G:/Modlist Downloads/Traveler`` to ``download_directory=Your Prefered Download Folder``. It's best to find the line inside the ini by using ``crtl + f``.
-
 ***
-
 ### Survival Mode
 
-While the list is made with Survival enabled by default, you can disabled it in the settings menu whenever you want (just give it a few seconds to take effect) and don't rapid fire switch between Survival and non-Survival.
-
+While the list is made with Survival enabled by default (with disabled hunger and exhaustion, so effectively only cold), you can disable it in the settings menu whenever you want (just give it a few seconds to take effect) and don't rapid fire switch between Survival and non-Survival.
 ***
+### My damage is not consistent
 
+That's intended, it's my personal gameplay tweaks and damage ranges are set to **`15%`**, this includes hostile spells.
+***
+### Follower X won't follow me:
+Probably intended, this is not the vanilla game
+***
+### I can't become the head of every guild:
+Intended, you can only finish one of the major guild quest lines
+***
+### I can't open the map and don't see a compass
+Intended, check out [Navigation Restrictions](https://www.nexusmods.com/skyrimspecialedition/mods/129086) \
+**INFO:** there are a map and a compass in the starting choices menu right after you created your character.
+***
+### I don't see quest markers:
+Intended, I hate quest markers since they ruin the game imo and make it so you only run brainlessly from marker to marker.
+You can enable them by disabling `Nocturnia No Markers` in MO2
+***
 ### Tweaking the Game Settings
 
 #### BethINI
@@ -267,8 +284,10 @@ This is caused by Windows display scaling feature. To fix this you can do either
 ### Modifications
 **Can I add? Is X compatible?**
 
-Yes it is compatible when you know what you are doing
-
+- Yes you can if you know what you are doing. 
+- Yes it is compatible when you know what you are doing.
+- No simply downloading a mod and activating it in MO2 is not knowing what you're doing.
+***
 ## Removing the Modlist
 
 Simply delete the folder and you have uninstalled it.
@@ -286,7 +305,7 @@ To see what changes happened in each version, please refer to the [Changelog.](/
 
 ## Support
 
-If you feel like I did a good job with the list and want to support my work, consider donating to my [ko-fi](https://ko-fi.com/styyx). 
+If you feel like I did a good job with the list and want to support my work, consider donating to my [ko-fi](https://ko-fi.com/styxus). 
 
 
 ## Credits and Thanks
@@ -299,6 +318,5 @@ If you feel like I did a good job with the list and want to support my work, con
 - Abandoned by Arkay for helping me with Requiem and the addon choices.
 - Zélie for ideas to work without the DLC
 - The Animonculory Dev Team.
-- Phoenix for [Skyrim Modding Essentials](https://thephoenixflavour.com/skyrim-se/sme/) which this list used as a base and helped me setup everything easily. 
 - Noggog for Mutagen.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.
