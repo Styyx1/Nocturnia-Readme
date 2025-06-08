@@ -1,8 +1,27 @@
 # Changelog
 
 ***
+## 2.0.1 - Final Beta Hotfix
+**Should be save to update**
 
-## 2.0.0 (currently in progress)
+### Fixes:
+- fixed innkeepers not renting rooms
+- fixed Navigation Restrictions settings 
+- updated Beards of Power
+- unpacked Nordic Beards to potentially fix most overlooked black face bugs
+
+### Removed:
+- Leonardo weathers
+- azurite fogs
+- Innkeepers only show room if asked due to a script conflict with candlhearth
+
+### Added: 
+- [Wander - A weather mod](https://www.nexusmods.com/skyrimspecialedition/mods/24439)
+- Beard Mask Fix
+- Description and Icons for coin purse and quiver
+
+
+## 2.0.0 - Final Beta(currently in progress)
 **Update requires a new game**
 
 ## Summary
