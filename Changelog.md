@@ -1,6 +1,27 @@
 # Changelog
 
 ***
+## 2.0.2 - Hotfix
+**save safe as long as you're not in one of those added dungeons or close to of them**
+
+## TLDR:
+- removed some unused mods
+- added some dungeons
+- made the list ~7Gb smaller
+
+### Removed:
+- sforzinda_imitations (unused. was previously used for Requiem armor switcheroo)
+- immersive armors (unused. was previously used for Requiem armor switcheroo)
+- warmonger armoury (unused. was previously used for Requiem armor switcheroo)
+- aetherium Armor (unused. was previously used for Requiem armor switcheroo)
+- Kellan leather armor (it was too slim for my liking)
+
+### Added: 
+- Snozz' Dungeons: Redoran's Retreat, Valtheim, Halted Stream Camp, Swindler's Den, Sunderstone
+- Puzzle Variations
+- Toughened Traveler Outfit as the new replacer for Leather armor
+
+***
 ## 2.0.1 - Final Beta Hotfix
 **Should be save to update**
 
@@ -20,7 +41,7 @@
 - Beard Mask Fix
 - Description and Icons for coin purse and quiver
 
-
+***
 ## 2.0.0 - Final Beta(currently in progress)
 **Update requires a new game**
 
